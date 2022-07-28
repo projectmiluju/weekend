@@ -1,4 +1,6 @@
-Use Case 그려보기
+ 
+<img src="https://github.com/projectmiluju/weekend/blob/master/UML.PNG" width="1000" alt="USECASE그려보기"></img>
+
 
 - [API명세서](https://github.com/projectmiluju/TIL/tree/main/202207/20220726)
 
